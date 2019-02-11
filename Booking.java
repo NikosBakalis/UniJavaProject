@@ -1,5 +1,3 @@
- 
-
 public class Booking {
     private String name_of_client;//to onoma tou pelath
     private  int booking_code;// o monadikos kwdikos dwmatiou
